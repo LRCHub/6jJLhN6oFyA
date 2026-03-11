@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "名もなき詩",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-11T11:55:38.921433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "名もなき詩",
+      "artist": "Katsunori Takahashi",
+      "has_synced": false,
+      "path": "select/01_名もなき詩_Katsunori_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "名もなき詩",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/02_名もなき詩_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "名もなき詩",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_名もなき詩_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "名もなき詩",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_名もなき詩_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "名もなき詩",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_名もなき詩_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Children - 名もなき詩",
+      "artist": "Eric Wu",
+      "has_synced": true,
+      "path": "select/06_Mr._Children_-_名もなき詩_Eric_Wu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "名もなき詩 [Live]",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/07_名もなき詩_[Live]_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "名もなき詩",
+      "artist": "Mr.Children 1996-2000",
+      "has_synced": true,
+      "path": "select/08_名もなき詩_Mr.Children_1996-2000.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "名もなき詩",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_名もなき詩_Mr.Children.txt"
+    }
+  ]
+}
